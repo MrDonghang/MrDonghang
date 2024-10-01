@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Donghang Li (Dylan).
-- 👀 I’m interested in urban computing, causal inference, and transportation.
+- 👀 I’m interested in urban computing, causal inference, and machine learning.
 - 🇨🇳 I got my Bachelor degree in both Urban Planning and Economics from Peking University (PKU).
 - 🌱 I’m currently a graduate student at Massachusetts Institute of Technology (MIT).
 
